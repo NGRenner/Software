@@ -1,0 +1,1 @@
+RobotC is a coding language that is derived from C+ that is commonly used in robot technology. For these samples provided, these were done with VEX equipment, where a code for a specific task is uploaded to an external cortex that can use the code to perfrom certain task. 
